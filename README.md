@@ -1,6 +1,8 @@
 
 # Bank Management System
 
+![java__](https://github.com/user-attachments/assets/7034c956-3b14-410d-bf3a-d881309c9794)
+
 ## Project Overview
 
 The Bank Management System is a Java-based application designed to manage various banking operations such as user registration, account management, transactions, and balance inquiries. The system aims to provide a seamless and secure banking experience for users.
